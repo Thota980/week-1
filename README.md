@@ -1,2 +1,3 @@
-# week-1
+# soloar power prediction
+
 solarpower pridiction using linear regression
